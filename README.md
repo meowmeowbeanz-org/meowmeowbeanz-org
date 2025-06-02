@@ -55,7 +55,7 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 
 ## DOI
 
-[DOI will be assigned by Zenodo upon publication]
+[![DOI](https://zenodo.org/badge/994983301.svg)](https://doi.org/10.5281/zenodo.15579897)
 
 ---
 
